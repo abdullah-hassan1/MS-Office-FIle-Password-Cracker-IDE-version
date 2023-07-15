@@ -90,7 +90,7 @@ def argparse():
                           ".docx etc: ")
         unlock(file_path)
 
-    print("Your File is Unlocked Check the Folder Where the Original File is. Thanks")
+    print("Your File is Unlocked, Check the Folder Where the Original File is. Thanks")
 
 
 if __name__ == '__main__':
